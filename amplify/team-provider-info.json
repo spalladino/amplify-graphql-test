@@ -10,6 +10,14 @@
             "StackName": "amplify-amplifygraphqltest-dev-153428",
             "StackId": "arn:aws:cloudformation:us-east-1:598931145132:stack/amplify-amplifygraphqltest-dev-153428/64a95ca0-9091-11ea-a098-0aac80a39b9b",
             "AmplifyAppId": "d6d3vpyu6ptpg"
+        },
+        "categories": {
+            "function": {
+                "amplifygraphqltest9ccf18dePreTokenGeneration": {}
+            },
+            "auth": {
+                "amplifygraphqltest9ccf18de": {}
+            }
         }
     }
 }

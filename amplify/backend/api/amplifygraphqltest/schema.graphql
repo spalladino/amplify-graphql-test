@@ -1,0 +1,5 @@
+type Relayer @model @key(fields: ["tenantId", "id"]) @auth(rules: [{allow: owner}]) {
+  id: ID!
+  name: String!
+  tenantId: String!
+}
